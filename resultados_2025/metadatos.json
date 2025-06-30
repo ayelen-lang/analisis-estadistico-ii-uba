@@ -1,0 +1,19 @@
+{
+  "materia": "Análisis Estadístico II (602) · Facultad de Ciencias Económicas · UBA",
+  "edicion": "2025",
+  "fecha_archivo_world_bank": "2025-06-05",
+  "version_archivo": "202506",
+  "fuente": "World Development Indicators, edición del 5 de junio de 2025",
+  "url_catalogo": "https://datatopics.worldbank.org/world-development-indicators/wdi-archives.html",
+  "fecha_maxima_dato": 2024,
+  "indicadores": {
+    "NY.GDP.PCAP.KD.ZG": "crecimiento_real",
+    "NY.GDP.PCAP.CD": "pib_nominal"
+  },
+  "paises": {
+    "DNK": "Dinamarca",
+    "NOR": "Noruega",
+    "FIN": "Finlandia"
+  },
+  "sha256_csv": "5967076ddb4d99c17c2fb334559a39263c3c72093ee05161f4cee8a462372550"
+}
